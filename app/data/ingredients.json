@@ -1,0 +1,11 @@
+[
+  { "id": 1, "name": "chicken", "emoji": "🍗" },
+  { "id": 2, "name": "beef", "emoji": "🥩" },
+  { "id": 3, "name": "salmon", "emoji": "🐟" },
+  { "id": 4, "name": "cheese", "emoji": "🧀" },
+  { "id": 5, "name": "eggs", "emoji": "🥚" },
+  { "id": 6, "name": "rice", "emoji": "🍚" },
+  { "id": 7, "name": "tomato", "emoji": "🍅" },
+  { "id": 8, "name": "pasta", "emoji": "🍝" },
+  { "id": 9, "name": "onions", "emoji": "🧅" }
+]
